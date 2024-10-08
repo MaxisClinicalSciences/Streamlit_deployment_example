@@ -1,10 +1,4 @@
 streamlit
-langchain_community
 request
-re
-matplotlib
 pandas
-langchain
-HuggingFaceHub
-PromptTemplate
-LLMChain
+
